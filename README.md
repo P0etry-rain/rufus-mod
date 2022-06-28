@@ -1,6 +1,15 @@
 Rufus: The Reliable USB Formatting Utility
 ==========================================
 
+## PLEASE FOLLOW THE WARNING FROM TEAM RUFUS.
+## DO NOT OPEN THIS TOOL IF YOU KNOW NOTHING ABOUT IT.
+## I make some small modification to Rufus. To break limitation of flashing internal disk.
+## This modified version is very dangerous. It can remove all the files from you disk.
+## I need this tool to install openwrt_x86. So i make the modification. No offense.
+## Make sure that all you step are safe if you insist use it.
+
+### `CtrlAlt-F` to switch cheat mode.
+
 [![VS2022 Build Status](https://img.shields.io/github/workflow/status/pbatard/rufus/VS2022.svg?style=flat-square&label=VS2022%20Build)](https://github.com/pbatard/rufus/actions/workflows/vs2022.yml)
 [![MinGW Build Status](https://img.shields.io/github/workflow/status/pbatard/rufus/MinGW.svg?style=flat-square&label=MinGW%20Build)](https://github.com/pbatard/rufus/actions/workflows/mingw.yml)
 [![Coverity Scan Status](https://img.shields.io/coverity/scan/2172.svg?style=flat-square&label=Coverity%20Analysis)](https://scan.coverity.com/projects/pbatard-rufus)  
