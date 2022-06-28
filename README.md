@@ -1,5 +1,4 @@
 Rufus: The Reliable USB Formatting Utility
-==========================================
 
 ##
 ## PLEASE FOLLOW THE WARNING FROM TEAM RUFUS.
